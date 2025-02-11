@@ -77,16 +77,6 @@ The model is evaluated using metrics such as:
 ## Results
 The object detection model performs well on the dataset, identifying objects accurately. The loss and accuracy trends over the training epochs are visualized.
 
-## Visualization
-
-Below is a graphical representation of the training process and some example results from the object detection model:
-
-![Training Loss](outputs/graphs/training_loss.png)
-**Figure 1.1:** Training and validation loss over epochs.
-
-![Object Detection Example](outputs/results/detection_example.jpg)
-**Figure 1.2:** Example of object detection on a test image.
-
 ## Files and Folders Overview
 
 - **`data/`**: Contains images and annotations.
